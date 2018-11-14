@@ -1,0 +1,228 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .row0 {
+    position: relative;
+    display: flex;
+    margin-left: 34px;
+    margin-top: 22px;
+    width: 253px;
+    height: 52px;
+    justify-content: space-between
+  }
+  .style1 {
+    width: 54px;
+    height: 44px;
+    align-self: center;
+    flex-shrink: 0
+  }
+  .style2,
+  .style3 {
+    width: 63px;
+    flex-shrink: 0
+  }
+  .style2 {
+    align-self: stretch;
+    height: 100%
+  }
+  .style3 {
+    position: relative;
+    margin-top: 5px;
+    height: 52px
+  }
+  .style0,
+  .style4 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: .875em;
+    margin-left: 1px;
+    margin-top: 131px;
+    height: 12px
+  }
+  .style4 {
+    position: relative;
+    margin-left: 2px;
+    margin-top: 207px;
+    height: 15px
+  }
+  .style5 {
+    margin-left: 81px;
+    margin-top: 57px;
+    width: 209px;
+    height: 216px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .row0 {
+    position: relative;
+    display: flex;
+    margin-left: 70px;
+    margin-top: 45px;
+    width: 518px;
+    height: 106px;
+    justify-content: space-between
+  }
+  .style1 {
+    width: 111px;
+    height: 90px;
+    align-self: center;
+    flex-shrink: 0
+  }
+  .style2,
+  .style3 {
+    width: 129px;
+    flex-shrink: 0
+  }
+  .style2 {
+    align-self: stretch;
+    height: 100%
+  }
+  .style3 {
+    position: relative;
+    margin-top: 10px;
+    height: 106px
+  }
+  .style0,
+  .style4 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 1.792em;
+    margin-left: 2px;
+    margin-top: 268px;
+    height: 25px
+  }
+  .style4 {
+    position: relative;
+    margin-left: 4px;
+    margin-top: 424px;
+    height: 31px
+  }
+  .style5 {
+    margin-left: 166px;
+    margin-top: 117px;
+    width: 428px;
+    height: 442px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .row0 {
+    position: relative;
+    display: flex;
+    margin-left: 83px;
+    margin-top: 54px;
+    width: 621px;
+    height: 128px;
+    justify-content: space-between
+  }
+  .style1 {
+    width: 132px;
+    height: 108px;
+    align-self: center;
+    flex-shrink: 0
+  }
+  .style2,
+  .style3 {
+    width: 155px;
+    flex-shrink: 0
+  }
+  .style2 {
+    align-self: stretch;
+    height: 100%
+  }
+  .style3 {
+    position: relative;
+    margin-top: 12px;
+    height: 128px
+  }
+  .style0,
+  .style4 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 2.1466666666666665em;
+    margin-left: 2px;
+    margin-top: 321px;
+    height: 29px
+  }
+  .style4 {
+    position: relative;
+    margin-left: 5px;
+    margin-top: 508px;
+    height: 37px
+  }
+  .style5 {
+    margin-left: 199px;
+    margin-top: 140px;
+    width: 513px;
+    height: 530px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .row0 {
+    position: relative;
+    display: flex;
+    margin-left: 109px;
+    margin-top: 70px;
+    width: 810px;
+    height: 166px;
+    justify-content: space-between
+  }
+  .style1 {
+    width: 173px;
+    height: 141px;
+    align-self: center;
+    flex-shrink: 0
+  }
+  .style2,
+  .style3 {
+    width: 202px;
+    flex-shrink: 0
+  }
+  .style2 {
+    align-self: stretch;
+    height: 100%
+  }
+  .style3 {
+    position: relative;
+    margin-top: 16px;
+    height: 166px
+  }
+  .style0,
+  .style4 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 2.8000000000000003em;
+    margin-left: 3px;
+    margin-top: 419px;
+    height: 38px
+  }
+  .style4 {
+    position: relative;
+    margin-left: 6px;
+    margin-top: 662px;
+    height: 48px
+  }
+  .style5 {
+    margin-left: 259px;
+    margin-top: 182px;
+    width: 669px;
+    height: 691px
+  }
+}
